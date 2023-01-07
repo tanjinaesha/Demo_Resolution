@@ -1,0 +1,302 @@
+*{
+  margin: 0;
+  font-weight: 'Work Sans';
+  
+
+  
+  
+ 
+}
+/* hobbies */
+.hobbies{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap:10px;
+ 
+}
+.hobbies_title{
+  text-align: center;
+  margin:70px;
+
+}
+.hobbies1{
+  text-align: center;
+  margin:70px;
+  padding: 100px;
+  background-color: #F15B22;
+
+
+}
+.hobbies2{
+  text-align: center;
+  margin:70px;
+  padding: 100px;
+  background-color:pink;
+ 
+
+}
+.hobbies3{
+  text-align: center;
+  margin:70px;
+  padding: 100px;
+  background-color:blueviolet;
+ 
+
+}
+/* banner */
+.banner-right-side{
+  
+  background-image: url('../images/banner/banner1.png');
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+ 
+  text-align: right;
+  background-image: cover;
+  margin-right: 217px;
+  
+  
+  
+  
+  
+  
+ 
+
+  
+  
+   
+}
+
+
+
+  .title{
+    font-size: 30px;
+    margin-left: 10px;
+  }
+    
+   
+
+   
+    
+    
+  
+  .side-title{
+    
+font-size: 16px;
+color:  #444343;;
+text-align: right;
+
+
+
+  } 
+
+  .button{
+
+width: 100px;
+height: 50px;
+color: #FFFFFF;
+border-radius: 5px;
+background-color:#F15B22;
+
+padding: 16px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px; 
+width: 88px;
+height: 23px;
+margin-top: 50px;
+margin-left: 100px;
+
+
+  }
+  
+  
+  /* section1 */
+  .text{
+    margin-top: 370px;
+    margin-left: 322px;
+  }
+  .text1{
+  width: 288px;
+  height: 94px;
+  font-size: 25px;
+  }
+  .text2{
+width: 416px;
+height: 104px;
+font-size:16px;
+  }
+  .text3{
+width: 315px;
+height: 29.85px;
+font-size: 16px;
+  }
+  .text li{
+    text-decoration: none;
+  }
+ 
+  .section1{
+    display: flex;
+  }
+  .plans{
+text-align: center;
+width: 179px;
+height: 47px;
+font-size: 40px;
+margin-left: 710px;
+margin-right: 710px;
+margin-top: 140px;
+margin-bottom: 45px;
+    
+  }
+  ul {
+    list-style: none;
+  }
+  
+  ul li:before {
+    content: '✓';
+    color: aqua;
+  }
+  .img{
+    width: 569px;
+height: 723.3px;
+margin: 20px ;
+  }
+  /* section2 */
+  .section2{
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  .section2 h2{
+    width: 270px;
+height: 35px;
+font-size: 30px;
+
+  }
+  .section2 p{
+    width: 177px;
+height: 29px;
+font-size: 20px;
+color:#737272;
+text-align: center;
+  }
+  
+  /* section3 */
+  .main {
+    background-image: url('../images/gradient2.png'),url('../images/watch.png' );
+    width: 1140px;
+    height: 300px;
+   
+    background-repeat: no-repeat;
+    
+   
+   
+    margin: 20px;
+  }
+  
+  .section3{
+    margin-top: 60px;
+    margin-left: 65px;
+    height: 460px;
+    width: 182px;
+  }
+  .button2{
+width: 100px;
+height: 50px;
+background-color: #FFFFFF;
+border-radius: 5px;
+color:#F15B22;
+
+padding: 16px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+width: 88px;
+height: 23px;
+margin-left: 65px;
+margin-bottom: 30px;
+
+  }
+  .part1{
+width: 459px;
+height: 94px;
+font-family: 'Work Sans';
+color:white;
+text-align: center;
+margin-top: 60px;
+margin-left: 64px;
+font-size: 40px;
+inline-size: right;
+  }
+  .part2{
+    margin-top: 60px;
+    margin-left: 50px;
+    inline-size: right;
+  }
+  /* footer */
+  .f_text_1{
+width: 148px;
+height: 53px;
+font-size: 45px;
+
+margin-top: 164px;
+  }
+  .f_text2{
+    
+
+
+margin-top: 164px;
+
+
+
+  }
+  .f_text_3{
+  display: flex;
+  margin: 16px;
+  gap:10px
+  
+
+}
+  .sub_btn1{
+width: 170.11px;
+height: 64px;
+background: #FFFFFF;
+border-radius: 5px;
+color:#F15B22;
+
+  }
+  .footer{
+display: flex;
+background-color:black;
+width: 100%;
+height: 100vh;
+justify-content: space-between;
+  }
+  .right_side_footer{
+    color: #FFFFFF;
+    margin-left: 230px;
+    
+  }
+  .left_side_footer{
+    margin-right: 230px;
+    margin-top: 100px;
+    
+  }
+  .subscribe{
+    font-size: 23px;
+    color: #FFFFFF;
+    margin-top: 50px;
+  }
+  
+  .input{
+width: 325px;
+height: 64px;
+left: 1046px;
+background: #151414;
+  }
